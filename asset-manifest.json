@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Monopoly/static/css/main.d6937961.chunk.css",
+    "main.js": "/Monopoly/static/js/main.e2f89a87.chunk.js",
+    "main.js.map": "/Monopoly/static/js/main.e2f89a87.chunk.js.map",
+    "runtime-main.js": "/Monopoly/static/js/runtime-main.96e3d9ee.js",
+    "runtime-main.js.map": "/Monopoly/static/js/runtime-main.96e3d9ee.js.map",
+    "static/js/2.3b4f2756.chunk.js": "/Monopoly/static/js/2.3b4f2756.chunk.js",
+    "static/js/2.3b4f2756.chunk.js.map": "/Monopoly/static/js/2.3b4f2756.chunk.js.map",
+    "index.html": "/Monopoly/index.html",
+    "precache-manifest.4d26cd3ac7292ff1ce5a4f5195aa9502.js": "/Monopoly/precache-manifest.4d26cd3ac7292ff1ce5a4f5195aa9502.js",
+    "service-worker.js": "/Monopoly/service-worker.js",
+    "static/css/main.d6937961.chunk.css.map": "/Monopoly/static/css/main.d6937961.chunk.css.map",
+    "static/js/2.3b4f2756.chunk.js.LICENSE.txt": "/Monopoly/static/js/2.3b4f2756.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96e3d9ee.js",
+    "static/js/2.3b4f2756.chunk.js",
+    "static/css/main.d6937961.chunk.css",
+    "static/js/main.e2f89a87.chunk.js"
+  ]
+}
